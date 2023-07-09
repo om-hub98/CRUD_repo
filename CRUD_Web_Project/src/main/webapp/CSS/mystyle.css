@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+*  
+{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+  
+}
+.main-body{ background-color: lightblue;}
+
+ .main-div
+ {
+     width:30%;
+     padding : 35px 20px;
+     margin: 50px auto;	
+     background-color: white;
+     border-radius: 10px;
+     height: 500px;
+     text-align:center;
+    
+     
+ }
+ 
+ h1{
+    font-size: 35px; 
+    font-family: Ariel; 
+    margin-bottom: 20px;
+ }
+ 
+ form input{
+      width: 92%;
+      height: 30px;
+      margin-top:10px;
+      background-color: lightgray;
+      padding: 18px 20px;
+      border-radius: 20px;
+      
+ }
+ 
+ button{
+     margin:20px 10px;
+     cursor:pointer;
+     font-size:20px;
+     padding:5px 6px;
+     background-color: gray;
+ }

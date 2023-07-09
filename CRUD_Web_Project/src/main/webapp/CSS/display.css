@@ -1,0 +1,27 @@
+*{
+   margin:0px;
+   padding: 0px; 
+   box-sizing: border-box;
+}
+#body{
+    width:90%;
+    padding: 32px 16px;
+    margin: 5px auto;
+    text-align:center;
+    background-image: url("bg4.jpg");
+    
+}
+#main-div
+{
+     margin:auto;
+     padding : 32px 16px;
+     background-color: white;     
+}
+#h1{
+   margin-bottom: 10px;
+}
+.table{
+   
+   margin-left: 70px;
+   margin-right:auto;
+}
